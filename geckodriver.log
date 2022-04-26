@@ -1,0 +1,231 @@
+1650913634382	geckodriver	INFO	Listening on 127.0.0.1:51929
+1650913663693	geckodriver	INFO	Listening on 127.0.0.1:51965
+1650913666762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilebXreBY"
+1650913667113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilebXreBY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51966/devtools/browser/7de77dc3-ae5a-4229-bfc2-a1248867b623
+1650913668977	Marionette	INFO	Listening on port 51986
+Read port: 51986
+1650913669099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650913675840	Marionette	INFO	Stopped listening on port 51986
+[Parent 4824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650913685701	geckodriver	INFO	Listening on 127.0.0.1:52019
+1650913688782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilebZI9pw"
+1650913689124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilebZI9pw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52020/devtools/browser/4686c1fe-1120-4ddd-b516-5ebe6191abfb
+1650913691055	Marionette	INFO	Listening on port 52042
+Read port: 52042
+1650913691126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650913696988	geckodriver	INFO	Listening on 127.0.0.1:52067
+1650913710664	geckodriver	INFO	Listening on 127.0.0.1:52077
+1650913771728	geckodriver	INFO	Listening on 127.0.0.1:52103
+1650913774799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilesucOun"
+1650913775150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofilesucOun\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52104/devtools/browser/caeb9d20-e4ba-4f73-9f0e-844deef62634
+1650913777096	Marionette	INFO	Listening on port 52124
+Read port: 52124
+1650913777136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650913785487	Marionette	INFO	Stopped listening on port 52124
+[Parent 16728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650913856587	geckodriver	INFO	Listening on 127.0.0.1:52171
+1650913859665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileVvZROW"
+1650913859993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileVvZROW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52172/devtools/browser/f2c081de-3506-4bf3-a925-eca75570975e
+1650913861852	Marionette	INFO	Listening on port 52193
+Read port: 52193
+1650913861891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1650913957709	Marionette	INFO	Stopped listening on port 52193
+1650914097395	geckodriver	INFO	Listening on 127.0.0.1:52314
+1650914100483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileNwYvce"
+1650914100834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileNwYvce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52315/devtools/browser/877a7089-0e7c-4d1a-b77e-425c16ec1fda
+1650914102689	Marionette	INFO	Listening on port 52332
+Read port: 52332
+1650914102749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650914509630	geckodriver	INFO	Listening on 127.0.0.1:50219
+1650914512704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofile2fORaf"
+1650914513061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofile2fORaf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50220/devtools/browser/1d6108ff-19dd-40bb-b9f9-7a7a17629d01
+1650914514953	Marionette	INFO	Listening on port 50238
+Read port: 50238
+1650914515065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650914619450	Marionette	INFO	Stopped listening on port 50238
+1650915109293	geckodriver	INFO	Listening on 127.0.0.1:50380
+1650915112358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileyDhV9Y"
+1650915112729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileyDhV9Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50381/devtools/browser/2b1c99d1-ad6a-4396-b95b-2bee95e496b4
+1650915114689	Marionette	INFO	Listening on port 50405
+Read port: 50405
+1650915114722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1650915121117	Marionette	INFO	Stopped listening on port 50405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650915485765	geckodriver	INFO	Listening on 127.0.0.1:50579
+1650915488834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileT1BjSb"
+1650915489181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileT1BjSb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50580/devtools/browser/5edd073b-f6e0-41e2-9179-a366d84b37fe
+1650915491131	Marionette	INFO	Listening on port 50601
+Read port: 50601
+1650915491185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+1650915651366	geckodriver	INFO	Listening on 127.0.0.1:50684
+1650915654468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofile4kqT2r"
+1650915654841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofile4kqT2r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50685/devtools/browser/4310d585-5e57-4481-800c-e7193c5753c0
+1650915656743	Marionette	INFO	Listening on port 50710
+Read port: 50710
+1650915656791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650915862789	geckodriver	INFO	Listening on 127.0.0.1:64567
+1650915865884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileqt7kWU"
+1650915866234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileqt7kWU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64568/devtools/browser/db1e4c54-4ec2-4768-b2e6-d3962b558103
+1650915868187	Marionette	INFO	Listening on port 64592
+Read port: 64592
+1650915868228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650915905631	geckodriver	INFO	Listening on 127.0.0.1:64649
+1650915908685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofiley4UBQA"
+1650915909024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofiley4UBQA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64650/devtools/browser/c22a9079-a134-4434-ac81-412a08a68e47
+1650915910970	Marionette	INFO	Listening on port 64676
+Read port: 64676
+1650915911010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650915946254	Marionette	INFO	Stopped listening on port 64671650915947306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileNGUHor"
+1650915947645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileNGUHor\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64730/devtools/browser/9155b5be-08ab-4daf-b5dd-e9dccd6a3692
+1650915949535	Marionette	INFO	Listening on port 64753
+Read port: 64753
+1650915949645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650916037014	Marionette	INFO	Stopped listening on port 64753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+rofile9QIPsl"
+1650916024731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofile9QIPsl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64814/devtools/browser/1bda05b4-4e01-41f0-9394-fbc379b35df3
+1650916026817	Marionette	INFO	Listening on port 64838
+Read port: 64838
+1650916026866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650916070168	Marionette	INFO	Stopped listening on port 64838
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650916078016	geckodriver	INFO	Listening on 127.0.0.1:64903
+1650916081090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileDSfLrP"
+1650916081427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileDSfLrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64904/devtools/browser/9d22769b-28d7-4782-8bfe-3faae48783fb
+1650916083286	Marionette	INFO	Listening on port 64923
+Read port: 64923
+1650916083326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650916134882	geckodriver	INFO	Listening on 127.0.0.1:64984
+1650916137973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileeNoFXq"
+1650916138324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\StarGear\\AppData\\Local\\Temp\\rust_mozprofileeNoFXq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64985/devtools/browser/5404de65-89ab-46a5-bc59-5d7d37ce2d02
+1650916140194	Marionette	INFO	Listening on port 65010
+Read port: 65010
+1650916140323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
